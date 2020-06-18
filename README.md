@@ -20,14 +20,12 @@ Inline Notes
 The notes are in the python files explaining each step with extra notes on what to avoid and what to take note of for that particular script.
 
 Links to Coursera Courses by the University of Michigan
-Specialisation
+Specialisation::::
 
 Getting Started with Python
 Python Data Structures
 Using Python to Access Web Data
-Using Databases with Python
-Author of Notes and Answers
-Ritchie Ng, from the sunny island called Singapore.
+Using Databases with Python.
 
 Awesome Lecturer
 Without him, I would not have been able to create these notes and answers.
